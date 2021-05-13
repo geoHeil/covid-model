@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Synthetic population COVID model"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,5 +17,4 @@ advanced:
   css_class:
 ---
 
-The consortium of TU Wien & DWH developed a synthetic covid model.
-They have been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The consortium of TU Wien & DWH developed a synthetic covid model that was used in forecasting the pandemic and deriving suggestions for interventions.

@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Publications
 subtitle:
 
 content:
-  count: 5
+  count: 8
   filters:
     author: ""
     category: ""
@@ -17,7 +17,8 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  #order: asc
+  page_type: publication
 design:
   view: 3
   columns: "1"
