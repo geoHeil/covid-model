@@ -35,15 +35,7 @@ The project set up the following pipeline to gather and analyse data relevant to
 
 Together with data from the state administration, originally from the Epidemic Reporting System but later extended to further datasets, it was possible to carry out simulations of the spread of disease. Results of the simulations were used as the basis for evidence-based recommendations to the Austrian government through the COVID-19 Forecast Consortium[^1].  The pipeline created in this project illustrates a very fruitful collaboration between government administration, business, and research in obtaining insights the support the response to a crisis – it should serve as a starting point for further collaborations also in non-crisis times. 
 
-xxxxxx
-https://wowchemy.com/docs/content/writing-markdown-latex/#images
-WHY is the image not loaded?
-
-perhaps we need to upgrade wowchemy?
-
-{{< figure src="pipeline.png" caption="data pipeline" >}}
-
-xxxxxxx
+![data pipeline](https://d33wubrfki0l68.cloudfront.net/f69cb67139daa32a1ea71e130032f7ba41041623/00781/2021/05/12/covid-population-model/featured_hu439d8a102a56437f7ad291ad6ac6bea9_760794_720x0_resize_lanczos_2.png)
 
 Below we describe results that were obtained in the project.
 
