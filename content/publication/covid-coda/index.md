@@ -4,7 +4,7 @@ date = 2020-09-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["geoheil", "Allan Hanbury", "Peter Filzmoser"]
+authors = ["Georg Heiler", "Allan Hanbury", "Peter Filzmoser"]
 
 # author_notes = ["Equal contribution", "Equal contribution"]
 
