@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The consortium of TU Wien & DWH developed a synthetic covid model that was used in forecasting the pandemic and deriving suggestions for interventions.
+The consortium of TU Wien, DWH & CSH developed a synthetic covid model that was used in forecasting the pandemic and deriving suggestions for interventions.
