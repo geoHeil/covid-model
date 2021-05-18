@@ -71,8 +71,7 @@ For these reasons, we aimed to synthetically reproduce, pad and augment a data s
 
 The generated synthetic data is characterized by reduced sparsity, logical consistency (i.e. no data-errors) and information included that is not observable in reality (e.g. the moment of infection. Our synthetic data reflects the original data set on a longitudinal and aggregated scale and displays effects that are known to exist in reality but cannot be recorded on a population scale.
 
-For more information the reader is referred to [Synthetic Reproduction and Augmentation of COVID-19 Case Reporting Data by Agent-Based Simulation]({{< relref "/publication/synth-data" >}})
-synth-data/.
+For more information the reader is referred to [Synthetic Reproduction and Augmentation of COVID-19 Case Reporting Data by Agent-Based Simulation]({{< relref "/publication/synth-data" >}}).
 [The publicly available synthetic dataset is shared](https://zenodo.org/record/4055943#.YJz_Zm5CQUF).
 
 ## Face Validation by Visualization of Infection Chains
