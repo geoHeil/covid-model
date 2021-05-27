@@ -39,7 +39,7 @@ This project has been funded by the Vienna Science and Technology Fund (WWTF) th
 
 ## Data providers
 
-We thank the data providing proporations for their continued support
+We thank the data providing corporations for their continued support:
 
 Magenta
 {{< figure src="magenta.jpg" >}}
