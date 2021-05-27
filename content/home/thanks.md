@@ -37,9 +37,9 @@ This project has been funded by the Vienna Science and Technology Fund (WWTF) th
 ![WWTF logo](https://upload.wikimedia.org/wikipedia/commons/2/25/WWTF_Logo.jpg)
 
 
-## Cooperative partners
+## Cooperation partners
 
-We thank the cooperative partners for their continued support:
+We thank the cooperation partners for their continued support:
 
 Magenta
 {{< figure src="magenta.jpg" >}}
