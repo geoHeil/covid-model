@@ -44,7 +44,7 @@ We thank the data providing proporations for their continued support
 Magenta
 {{< figure src="magenta.jpg" >}}
 
-T-LABS
+T-Labs
 
 {{< figure src="t-labs.png" width="300" >}}
 
