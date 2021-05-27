@@ -36,3 +36,17 @@ This project has been funded by the Vienna Science and Technology Fund (WWTF) th
 
 ![WWTF logo](https://upload.wikimedia.org/wikipedia/commons/2/25/WWTF_Logo.jpg)
 
+
+## Data providers
+
+We thank the data providing proporations for their continued support
+
+Magenta
+{{< figure src="magenta.jpg" >}}
+
+T-LABS
+
+{{< figure src="t-labs.png" width="300" >}}
+
+DREI
+{{< figure src="drei.png" width="300">}}
